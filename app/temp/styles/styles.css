@@ -380,8 +380,8 @@ img {
 .large-hero__text-content {
   position: absolute;
   top: 50%;
-  -webkit-transform: translateY(-50%) ;
-          transform: translateY(-50%) ;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
   left: 0;
   width: 100%;
   text-align: center;
@@ -406,6 +406,7 @@ img {
   max-width: 30rem;
   margin-left: auto;
   margin-right: auto;
+  margin:10;
 }
 .btn {
 	background-color: #2f5572;
