@@ -11,3 +11,5 @@
 @import "modules/_headline";
 @import "modules/_row";
 @import "modules/_gen-content-container";
+@import "modules/_section-title";
+@import "modules/_feature-item";
